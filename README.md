@@ -22,11 +22,11 @@ A beginner-friendly Java console application to add, view, and manage upcoming e
 ---
 
 ## 📁 Project Structure
-
+```
 EventReminder/
 ├── Event.java # Event class (implements Serializable)
 └── EventReminderApp.java # Main logic and menu-driven CLI
-
+```
 ---
 
 ## ⚙️ How to Compile and Run
